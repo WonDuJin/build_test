@@ -1,0 +1,43 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid #000;
+}
+#root > ul {
+  list-style-type: none;
+}
+#root > ul > li {
+  text-align: center;
+}
+#root > ul:nth-child(1) {
+  background-color: #333;
+}
+#root > ul:nth-child(2) {
+  background-color: #333;
+}
+#root > ul:nth-child(3) {
+  background-color: #333;
+}
+#root > ul:nth-child(4) {
+  background-color: #333;
+}
+#root > ul:nth-child(5) {
+  background-color: #333;
+}
+#root > ul:nth-child(6) {
+  background-color: #333;
+}
+#root > ul:nth-child(7) {
+  background-color: #333;
+}
+#root > ul:nth-child(8) {
+  background-color: #333;
+}
+#root > ul:nth-child(9) {
+  background-color: #333;
+}
+#root > ul:nth-child(10) {
+  background-color: #333;
+}
+
+/*# sourceMappingURL=style.css.map */
